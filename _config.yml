@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Constanza Avalos"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "cony.png"
-  name             : "Constanza's profile"
+  name             : "Causal inference PhD researcher"
   pronouns         : # example: "she/her"  
-  bio              : "Causal inference PhD researcher"
+  bio              : 
   location         : "Manchester, UK"
   employer         : "University of Manchester"
   uri              : # URL
