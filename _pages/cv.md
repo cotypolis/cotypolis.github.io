@@ -18,30 +18,24 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2021 - Present: PhD Researcher
+  * University of Manchester
+  * Duties include: Developing causal inference and doubly robust ML frameworks to generalize RCT findings; Designing and executing an online RCT; Harmonizing complex longitudinal UK surveys.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2025 - Jul 2025: Enrichment Placement Student
+  * Alan Turing Institute
+  * Duties included: Developing causal frameworks to transport intervention effects by fusing trial and observational data; Deploying advanced ordinal logistic regression models on complex survey data.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2024 - Apr 2025: Research Assistant
+  * University of Manchester
+  * Duties included: Designing and executing a systematic literature review; Synthesising findings to produce reports for policy makers.
+
+* Apr 2018 - Jan 2019: Chief, Department of Agriculture Statistics
+  * National Institute of Statistics, Chile
+  * Duties included: Directed a multidisciplinary team of 15 statisticians and data analysts; Oversaw production of statistical reports for 12 longitudinal surveys.
+
+* Previous experience (2009-2015): Held data analyst roles focused on program impact evaluation at the Chilean Ministry of Art and Culture and consumer data analytics in the private sector. 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
