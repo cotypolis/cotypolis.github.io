@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Social Statistics, University of Manchester, 2025 (expected) M.S. in Jekyll, GitHub University, 2014
+* M.S. in Social Research Methods and Statistics (Distinction), University of Manchester, 2021 
+* B.S. in Economics (Distinction), Universidad Santiago de Chile, 2016 
+* B.S. in Sociology (Distinction), Universidad de Valparaíso, 2008
 
 Work experience
 ======
