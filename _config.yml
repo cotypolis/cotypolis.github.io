@@ -24,23 +24,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Constanza's profile"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Causal inference PhD researcher"
+  location         : "Manchester, UK"
+  employer         : "University of Manchester"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "constanza.avalos@postgrad.manchester.ac.uk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=gV3_23wAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  Linkedin         : "https://www.linkedin.com/in/constanza-avalos-valdebenito/"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
