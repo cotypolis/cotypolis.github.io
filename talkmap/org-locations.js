@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.1440551
+    "Geneva Health Forum<br />University of Geneva; Geneva, Switzerland",
+    46.2017559,
+    6.1466014
   ],
   [
     "PhD Showcase - SoST RAGS seminars<br />Department of Social Statistics, University of Manchester; Manchester, UK",
