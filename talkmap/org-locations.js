@@ -10,9 +10,9 @@ var addressPoints = [
     -0.1440551
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "PhD Showcase - SoST RAGS seminars<br />Department of Social Statistics, University of Manchester; Manchester, UK",
+    53.4794892,
+    -2.2451148
   ],
   [
     "PhD Research Showcase<br />Alan Turing Institute; London, UK",
