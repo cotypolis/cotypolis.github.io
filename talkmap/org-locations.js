@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Food labelling. An experiment to assess consumer choices<br />Royal Statistical Society International Conference; Harrogate, 2023",
+    41.5487013,
+    -88.1323222
   ],
   [
     "Geneva Health Forum<br />University of Geneva; Geneva, Switzerland",
